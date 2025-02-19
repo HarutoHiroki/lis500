@@ -112,6 +112,16 @@
   background-color: black;
 }
 
+.footer-top-text {
+  margin: 0;
+  padding-top: 10px;
+}
+
+.footer-bottom-text {
+  margin: 0;
+  padding-bottom: 10px;
+}
+
 input[type=text], input[type=email], select, textarea {
   width: 100%; /* Full width */
   padding: 12px; /* Some padding */ 
