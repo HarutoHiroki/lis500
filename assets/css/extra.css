@@ -467,3 +467,10 @@ alternate;
     border-color: transparent;
   }
 }
+.about-name-text {
+  margin-bottom: 5px;
+}
+
+.tenpx-spacer {
+  margin-top: 10px;
+}
