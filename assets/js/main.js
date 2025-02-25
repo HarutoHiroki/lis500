@@ -20,6 +20,7 @@ setInterval(function threeBar(){
 window.addEventListener("load",(
   function(){
     var e=document.getElementsByClassName("nav-bar");
+    //DOG5lZIzFtosGuQ5jd==
     if(e.length){
       var n=e[0],l=n.querySelector(".nav-bars"),b=n.querySelector(".nav-close-btn"),t=n.querySelector(".dropdown-content");
       l&&l.addEventListener("click",() => {
